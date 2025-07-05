@@ -6,7 +6,7 @@ This project is part of my cloud computing & devops journey. I have launched an 
 
 ## 📸 Project Preview
 
-![CLI Screenshot](./D:\Projects\lauching-ec2-mounting-ebs-vol\Screenshots\7_testing-mounted-data-from-project-ec2-on-testing-ec2.png)
+![Linux shell Screenshot](./D:\Projects\lauching-ec2-mounting-ebs-vol\Screenshots\7_testing-mounted-data-from-project-ec2-on-testing-ec2.png)
 
 ---
 
